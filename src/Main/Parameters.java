@@ -16,7 +16,7 @@ public class Parameters {
 	public static LinkedList<Integer> bonusList = new LinkedList<Integer>() ;
 	
 	public Parameters(){
-		lastLevel = 1; //this is the last unlocked level
+		lastLevel = 10; //this is the last unlocked level
 		money = 0;
 		beginNbrBullets = 100;
 		playerBulletDamage = 1;
